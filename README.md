@@ -1,16 +1,22 @@
-# tokuapp
+TokuApp
 
-A new Flutter project.
+TokuApp هو مشروع تعليمي تم تطويره باستخدام Flutter بهدف تعلم مهارات بناء تطبيقات متعددة الصفحات والتعامل مع التنقل بين الشاشات
 
-## Getting Started
+  # الهدف من المشروع
 
-This project is a starting point for a Flutter application.
+  - تجربة تعدد الصفحات Navigation في Flutter.
+  - تعلم كيفية الانتقال بين الشاشات باستخدام Navigator.
+  - ممارسة استخدام Widgets و Layouts مختلفة.
+  - تطوير مهارات تنظيم الكود والمشروع في Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+   # مميزات المشروع التعليمية
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   - الانتقال بين أكثر من صفحة داخل التطبيق.
+   - تمرين على تمرير البيانات بين الصفحات.
+   - استخدام AppBar و Buttons و Lists وغيرها من عناصر الواجهة.
+   - تنظيم المشروع بطريقة قابلة للتطوير مع تعلم مفهوم Stateful و Stateless Widgets.
+   - 
+   # التقنيات المستخدمة
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter and Dart
+
